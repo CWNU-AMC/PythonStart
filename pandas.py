@@ -21,8 +21,6 @@ import turtle
 # turtle.hideturtle()                # Hides brush shapes
 # turtle.exitonclick()               # Do not close the canvas when drawing is complete
 
-import turtle
-
 # Create a Turtle object
 t = turtle.Turtle()
 
