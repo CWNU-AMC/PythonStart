@@ -10,3 +10,6 @@ def translatef(word):
 word = input("Enter word :")
 
 print(translatef(word))
+
+
+# SOme changes have been made here to accomplish the branching
