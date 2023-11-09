@@ -14,6 +14,3 @@ print(translatef(word))
 
 # SOme changes have been made here to accomplish the branching
 # Another changes to the new feature branch
-# SOme changes have been made here to accomplish the branching
-# SOme changes have been made here to accomplish the branching
-# SOme changes have been made here to accomplish the branching
